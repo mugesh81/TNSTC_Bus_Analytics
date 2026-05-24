@@ -1,0 +1,21 @@
+bus_id,bus_type,capacity,route_id
+1,Deluxe,39,10
+2,AC Sleeper,48,4
+3,Ordinary,31,4
+4,AC Sleeper,32,4
+5,Ordinary,42,5
+6,Mini Bus,50,6
+7,Express,41,6
+8,Express,51,5
+9,Ordinary,49,3
+10,Deluxe,53,4
+11,Express,44,7
+12,AC Sleeper,50,9
+13,Express,51,6
+14,Ordinary,37,1
+15,AC Sleeper,42,5
+16,Ordinary,36,10
+17,AC Sleeper,36,8
+18,Mini Bus,50,8
+19,Express,38,3
+20,Express,53,9

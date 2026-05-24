@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
+
+# MySQL credentials — never upload passwords
+config.ini
+secrets.py
+*.env
+
+# Raw unclean data (keep only clean version)
+tnstc_data/
+
+# Large files
+*.log
